@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CatalinaCap/goit-react-hw-02-phonebook/static/css/main.f8296d9b.css",
-    "main.js": "/CatalinaCap/goit-react-hw-02-phonebook/static/js/main.c18847d2.js",
+    "main.css": "/CatalinaCap/goit-react-hw-02-phonebook/static/css/main.0191e772.css",
+    "main.js": "/CatalinaCap/goit-react-hw-02-phonebook/static/js/main.4c76d6a0.js",
     "index.html": "/CatalinaCap/goit-react-hw-02-phonebook/index.html",
-    "main.f8296d9b.css.map": "/CatalinaCap/goit-react-hw-02-phonebook/static/css/main.f8296d9b.css.map",
-    "main.c18847d2.js.map": "/CatalinaCap/goit-react-hw-02-phonebook/static/js/main.c18847d2.js.map"
+    "main.0191e772.css.map": "/CatalinaCap/goit-react-hw-02-phonebook/static/css/main.0191e772.css.map",
+    "main.4c76d6a0.js.map": "/CatalinaCap/goit-react-hw-02-phonebook/static/js/main.4c76d6a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8296d9b.css",
-    "static/js/main.c18847d2.js"
+    "static/css/main.0191e772.css",
+    "static/js/main.4c76d6a0.js"
   ]
 }
